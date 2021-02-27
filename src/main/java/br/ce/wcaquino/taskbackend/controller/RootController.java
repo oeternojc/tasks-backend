@@ -11,6 +11,6 @@ public class RootController {
 	
 	@GetMapping
 	public String hello() {
-		return "Olá Mundo!, Olá JC";
+		return "Olá Mundo!, by Olá JC";
 	}
 }
